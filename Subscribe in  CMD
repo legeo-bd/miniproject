@@ -1,0 +1,2 @@
+cd C:\Program Files\mosquitto
+mosquitto_sub -h localhost -t test/message -v
